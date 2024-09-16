@@ -1,0 +1,1 @@
+This program is a program that says "Hello World!" and is able to ask a user for input, more specifically a name. Once the user inputs their name, they click the button that says "Click Me" and their name will appear changing the text to "Hi, {name}".
